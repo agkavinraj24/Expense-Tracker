@@ -1,0 +1,31 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+}
+.center1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+}
+.table1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+table{
+    table-layout: auto;
+    width: 400px;
+    text-align: center;
+}
+h1{
+    margin-right: 8%;
+}
